@@ -17,11 +17,10 @@ How can we improve internal local government financial approval processes?
 
 ### *Our Vision*
 
-![govtechfuture](Images/govtechfuture.png)
 
 The public often criticizes government as being inefficient and technologically outdated. This project seeks to improve internal financial processes in not only government but also to apply in other private industries to increase accuracy, productivity, and efficiency. Capital Improvement Projects "CIP" in government often require the most approvals Capital projects are large projects usually over 100,000 dollars, has a useful life of 5 or more years, and covers more that one fiscal year from project planning to completed construction or acquisition. Since CIP projects include expenses for the construction, purchase or major renovation of buildings, other physical structures and major landscaping, it is common that a project contain multiple phases. The county may consider projects with multiple phases separately or as a single request. Governments do not take these projects lightly and often require years of planning and approvals, slowing down the process. One type of major project comes from the county and public school district relationship. Counties in North Carolina are required to provide construction and upkeep of school within their district. In this project we use "New Wales High School" as our example. 
 
-![gov4](Images/gov4.png)
+![govtechfuture](Images/govtechfuture.png)
 
 ### *Phase I*
 
