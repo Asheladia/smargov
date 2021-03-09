@@ -4,7 +4,11 @@
   <img width="460" height="300" src="Images/gov.png/460/300">
 </p>
 
-
+img[alt=gov.png] {
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 Blockchain Project Approval in Local Government
 
