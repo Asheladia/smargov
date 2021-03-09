@@ -1,6 +1,6 @@
 # ***Smargov*** 
 
-![gov](Images/gov.png  width="200" height="400" /)
+![](Images/gov.png  =200x70)
 
 Blockchain Project Approval in Local Government
 
