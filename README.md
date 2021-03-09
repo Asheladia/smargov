@@ -1,7 +1,7 @@
 # ***Smargov*** 
 
 <p align="center">
-  <Images width="460" height="300" "Images/gov.png/460/300">
+  <width="460" height="300" "Images/gov.png/460/300">
 </p>
 
 
