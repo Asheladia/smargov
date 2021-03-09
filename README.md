@@ -1,11 +1,11 @@
 # ***Smargov*** 
 
 <p align="center">
-  <img width="460" height="300" <src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png">>
+  <img width="460" height="300" <img src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png" width="500" height="400"/>
   
 </p>
 
-<img src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png" width="100" height="100"/>
+
 
 
 Blockchain Project Approval in Local Government
