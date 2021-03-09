@@ -54,7 +54,7 @@ The first part of the project addresses the inefficiencies in processes in gover
 ### ***Tech Used and Process***
 
 <p align="center">
-   <img src="https://business.comcast.com/community/images/librariesprovider3/supporting/02_28_government-trends.png?sfvrsn=7b9639d4_0" width="600" height="400"/>
+   <img src="https://business.comcast.com/community/images/librariesprovider3/supporting/02_28_government-trends.png?sfvrsn=7b9639d4_0" width="800" height="350"/>
   
 </p>
 The first phase began in Solidity using Remix to create the actual contract using Ethereum from a Ganache wallet in the blockchain. To create the local interface online, we used Truffle - Petshop, Truffle, Javascript, Node JS, and HTML.
