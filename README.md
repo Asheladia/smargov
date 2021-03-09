@@ -1,7 +1,7 @@
 # ***Smargov*** 
 
 <p align="center">
-  <img width="500" height="400" <img src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png" width="500" height="400"/>
+  <<img src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png" width="500" height="400"/>
   
 </p>
 
@@ -52,7 +52,7 @@ The first phase began in Solidity using Remix to create the actual contract usin
 ## ***Phase II***
 
 <p align="center">
-    <img width="600" height="500" <img src="https://z8n2g7q9.rocketcdn.me/wp-content/uploads/2020/10/Your-Basic-Guide-to-KYC-and-AML-Compliance.jpg" width="600" height="500"/>
+    <img width="1000" height="500" <img src="https://z8n2g7q9.rocketcdn.me/wp-content/uploads/2020/10/Your-Basic-Guide-to-KYC-and-AML-Compliance.jpg" width="1000" height="500"/>
   
 </p>
 
