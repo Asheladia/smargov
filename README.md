@@ -13,8 +13,10 @@ Blockchain Project Approval in Local Government
 ## ***Contributors: Alpa Sheladia, Chris Bryant, Lauren Tayara, Brian Withrow, Shana Zaman, and Brandon Srinath***
 
 
-  ![government](Images/government.png)
+  <p align="center">
+  <img src="https://www.tsts.com/wp-content/uploads/2019/01/government.jpg" width="700" height="400"/>
   
+</p>
 
 
 
