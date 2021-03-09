@@ -93,7 +93,10 @@ As mentioned in the beginning, integrations with other existing systems is an is
 
 ### ***Conclusion***
 
-![gov3](Images/gov3.png)
+<p align="center">
+   <img src="https://miro.medium.com/max/2000/1*yJDp_MBcBFtPs3DzrPLZGQ.jpeg" width="800" height="400"/>
+  
+</p>
 
 This project used blockchain contracts to solve two different, but related, problems in local government. Although using blockchain makes financial approvals and funding source amendments efficient, local governments are not likely to use it right now. Governments allowing this type of transition would require a huge shift in thought and local tech culture. Besides that, ethereum adoption is a risk since it can be volatile. In the example used in this project, we are not holding any value in the ethereum itself. At some point, it would need to transition to US dollars. In conclusion, the use of blockchain has the potential to allow for more efficiency in financial approval processes, but the cost of transactions and the acceptance from entities could delay or prevent its use.
 
