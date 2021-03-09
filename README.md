@@ -52,11 +52,11 @@ The first phase began in Solidity using Remix to create the actual contract usin
 ## ***Phase II***
 
 <p align="center">
-    <img width="100" height="75" <img src="https://z8n2g7q9.rocketcdn.me/wp-content/uploads/2020/10/Your-Basic-Guide-to-KYC-and-AML-Compliance.jpg" width="100" height="75"/>
+    <img width="600" height="500" <img src="https://z8n2g7q9.rocketcdn.me/wp-content/uploads/2020/10/Your-Basic-Guide-to-KYC-and-AML-Compliance.jpg" width="600" height="500"/>
   
 </p>
 
-![regulation-tech](Images/regulation-tech.png)
+
 
 In this phase of the project, we added a level for dividing the money required to complete the capital project. These types of projects often require funding from multiple sources including: 
 - General Fund (general tax-payer money)
