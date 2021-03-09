@@ -14,7 +14,7 @@ Blockchain Project Approval in Local Government
 
 
   <p align="center">
-  <img src="https://www.tsts.com/wp-content/uploads/2019/01/government.jpg" width="800" height="450"/>
+  <img src="https://www.tsts.com/wp-content/uploads/2019/01/government.jpg" width="800" height="400"/>
   
 </p>
 
