@@ -1,7 +1,7 @@
 # ***Smargov*** 
 
 <p align="center">
-  <img src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png" width="500" height="400"/>
+  <img src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png" width="600" height="320"/>
   
 </p>
 
