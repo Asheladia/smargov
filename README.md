@@ -1,6 +1,6 @@
 # ***Smargov*** 
 
-![gov](Images/gov.png)
+![gov](Images/gov.png  width="200" height="400" /)
 
 Blockchain Project Approval in Local Government
 
@@ -13,7 +13,7 @@ Blockchain Project Approval in Local Government
 
 How can we improve internal local government financial approval processes?
 
-![government1](Images/government1.png = 50 X 70)
+![government1](Images/government1.png)
 
 
 ## ***Our Vision***
