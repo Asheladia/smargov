@@ -39,7 +39,7 @@ The public often criticizes government as being inefficient and technologically 
 ## ***Phase I***
 
 <p align="center">
-  <img src="https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/013/digital_government_Adobe.jpg" width="1000" height="500"/>
+  <img src="https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/013/digital_government_Adobe.jpg" width="800" height="400"/>
   
 </p>
 
