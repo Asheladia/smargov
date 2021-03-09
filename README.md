@@ -1,7 +1,7 @@
 # ***Smargov*** 
 
 <p align="center">
-  <img width="460" height="300" ![gov](Images/gov.png)>
+  <img width="460" height="300" ![gov](./Images/gov.png)>
   
 </p>
 
