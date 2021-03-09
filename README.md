@@ -6,13 +6,12 @@ Blockchain Project Approval in Local Government
 
 ## ***Contributors: Alpa Sheladia, Chris Bryant, Lauren Tayara, Brian Withrow, Shana Zaman, and Brandon Srinath***
 
-![](Images/government.png | width=70)
 
 ### **Project Research Question**
 
 How can we improve internal local government financial approval processes?
 
-![government1](Images/government1.png | width=50)
+![government1](Images/government1.png = 50 X 70)
 
 
 ## ***Our Vision***
