@@ -84,7 +84,7 @@ The second phase also began in Solidity using Remix. We used a splitter function
 ### ***Potential Impact on Fintech/Financial Industry***
 
 <p align="center">
-   <img src="https://icma.org/sites/default/files/Technology%20Future.jpg" width="800" height="600"/>  
+   <img src="https://icma.org/sites/default/files/Technology%20Future.jpg" width="800" height="400"/>  
 </p>
 
 
