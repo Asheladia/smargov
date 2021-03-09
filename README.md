@@ -25,7 +25,7 @@ Blockchain Project Approval in Local Government
 How can we improve internal local government financial approval processes?
 
 <p align="center">
-   <img src="https://cdn.nextgov.com/media/img/upload/2017/08/10/080917digitalgovNG/860x394.jpg" width="800" height="500"/>  
+   <img src="https://cdn.nextgov.com/media/img/upload/2017/08/10/080917digitalgovNG/860x394.jpg" width="600" height="300"/>  
 </p>
 
 
