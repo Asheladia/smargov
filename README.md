@@ -24,7 +24,9 @@ Blockchain Project Approval in Local Government
 
 How can we improve internal local government financial approval processes?
 
-![government1](Images/government1.png)
+<p align="center">
+   <img src="https://cdn.nextgov.com/media/img/upload/2017/08/10/080917digitalgovNG/860x394.jpg" width="800" height="500"/>  
+</p>
 
 
 ## ***Our Vision***
@@ -82,7 +84,7 @@ The second phase also began in Solidity using Remix. We used a splitter function
 ### ***Potential Impact on Fintech/Financial Industry***
 
 <p align="center">
-   <img src="https://cdn.nextgov.com/media/img/upload/2017/08/10/080917digitalgovNG/860x394.jpg" width="800" height="500"/>  
+   <img src="https://icma.org/sites/default/files/Technology%20Future.jpg" width="600" height="600"/>  
 </p>
 
 
