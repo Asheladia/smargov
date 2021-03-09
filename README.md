@@ -36,7 +36,12 @@ The public often criticizes government as being inefficient and technologically 
 
 ## ***Phase I***
 
-![Legaltech](Images/Legaltech.png)
+<p align="center">
+  <img src="https://101blockchains.com/wp-content/uploads/2018/08/blockchain_government_transformation-1.jpg" width="800" height="500"/>
+  
+</p>
+
+
 
 
 The first part of the project addresses the inefficiencies in processes in government finance offices. We created a contract to simplify processes in a government finance office when large capital projects are concerned. Using the concept of voting, we applied Solidity to mimic an approval process. Since members from multiple levels of government (i.e Board, Management, Finance, Budget Analyst, etc) need to physically sign a paper contract that is passed around to different departments across multiple days for approval, it often slows down the process. The idea is that use an electronic contract for approval will eliminate the intricacies of this process. This also ensures a unanimous agreement on the capital project without needing to question signatures. Essentially, we are eliminating the need for physical signatures and making the process more secure and efficient. 
