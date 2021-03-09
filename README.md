@@ -76,6 +76,13 @@ The second phase also began in Solidity using Remix. We used a splitter function
 
 ### ***Potential Impact on Fintech/Financial Industry***
 
+<p align="center">
+   <img src="https://images.theconversation.com/files/358688/original/file-20200917-20-18hdkib.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip" width="600" height="400"/>
+  
+</p>
+
+
+
 ![govtechfuture](Images/govtechfuture.png)
 
 Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in licensing. Governments can also partner with FinTech to release funds to citizens quicker than former methods that were slow and high risk. Data can also be tracked and on blockchain platforms that cannot be altered, remaining transparent. 
