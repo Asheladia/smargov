@@ -1,7 +1,7 @@
 # ***Smargov*** 
 
 <p align="center">
-  <img width="460" height="300" ![gov](./Images/gov.png)>
+  <img width="460" height="300" <src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png">>
   
 </p>
 
